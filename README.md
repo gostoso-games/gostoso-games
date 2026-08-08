@@ -1,56 +1,41 @@
-# 💻 Olá, eu sou o [Seu Nome]!
+# Olá! Eu sou o [Seu Nome] 👋
 
-<p align="left">
-  <img src="https://shields.io" alt="Status">
-  <img src="https://shields.io" alt="Perfil">
-</p>
-
-Sou um desenvolvedor especializado em construir arquiteturas de software robustas, sistemas de alta concorrência e gerenciamento eficiente de dados. Meu foco principal está no desenvolvimento backend, APIs escaláveis e otimização de performance.
+Desenvolvedor apaixonado por tecnologia e resolução de problemas.
 
 ---
 
-## 🏆 Minha Stack Tier List
+### 🛠️ Linguagens e Ferramentas
 
-Esta é a minha classificação pessoal de domínio e frequência de uso das tecnologias da minha stack:
-
-### 👑 Rank S (Especialidade & Uso Diário)
-* <img src="https://shields.io" alt="Tier S"> <img src="https://shields.io" alt="Python"> — Desenvolvimento ágil, automações e arquitetura principal.
-* <img src="https://shields.io" alt="Tier S"> <img src="https://shields.io" alt="Django"> — Construção de APIs RESTful robustas e seguras.
-* <img src="https://shields.io" alt="Tier S"> <img src="https://shields.io" alt="PostgreSQL"> — Modelagem de dados complexos e consultas otimizadas.
-
-### 🔥 Rank A (Forte Domínio & Alta Performance)
-* <img src="https://shields.io" alt="Tier A"> <img src="https://shields.io" alt="Elixir"> — Sistemas distribuídos, concorrentes e em tempo real.
-* <img src="https://shields.io" alt="Tier A"> <img src="https://shields.io" alt="Redis"> — Estratégias de cacheamento, filas e mensageria rápida.
-* <img src="https://shields.io" alt="Tier A"> <img src="https://shields.io" alt="MySQL"> — Gerenciamento e manutenção de bancos relacionais tradicionais.
-
-### ⚡ Rank B (Sólido & Funcional)
-* <img src="https://shields.io" alt="Tier B"> <img src="https://shields.io" alt="JavaScript"> — Regras de negócio no frontend e scripts dinâmicos.
-
-### 🛠️ Rank C (Conhecimento de Base)
-* <img src="https://shields.io" alt="Tier C"> <img src="https://shields.io" alt="C"> — Entendimento profundo de algoritmos, memória e baixo nível.
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ---
 
-## 📊 Estatísticas (Vercel & GitHub Metrics)
+### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180">
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="180">
+  <!-- Cartão Principal de Estatísticas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=1a1b26" alt="Estatísticas do GitHub de SEU_USUARIO_AQUI" />
+  
+  <!-- Cartão de Linguagens Mais Usadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide=html&bg_color=1a1b26" alt="Linguagens mais usadas por SEU_USUARIO_AQUI" />
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%">
+  <!-- Cartão de Sequência de Commits (Streak) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&background=1a1b26" alt="Sequência de commits de SEU_USUARIO_AQUI" />
 </p>
 
 ---
 
-## 📫 Vamos nos conectar?
+### 📫 Como me encontrar
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
-  </a>
-  <a href="mailto:seu.email@provedor.com">
-    <img src="https://shields.io" alt="Email">
-  </a>
-</p>
+- **LinkedIn:** [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
+- **Email:** seu-email@exemplo.com
