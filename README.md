@@ -9,43 +9,37 @@ Sou um desenvolvedor especializado em construir arquiteturas de software robusta
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🏆 Minha Stack Tier List
 
-### **Linguagens de Programação**
-<p align="left">
-  <img src="https://shields.io" alt="Python">
-  <img src="https://shields.io" alt="JavaScript">
-  <img src="https://shields.io" alt="Elixir">
-  <img src="https://shields.io" alt="C">
-</p>
+Esta é a minha classificação pessoal de domínio e frequência de uso das tecnologias da minha stack:
 
-### **Frameworks & Web**
-<p align="left">
-  <img src="https://shields.io" alt="Django">
-</p>
+### 👑 Rank S (Especialidade & Uso Diário)
+* <img src="https://shields.io" alt="Python"> — Desenvolvimento ágil, automações e arquitetura principal.
+* <img src="https://shields.io" alt="Django"> — Construção de APIs RESTful robustas e seguras.
+* <img src="https://shields.io" alt="PostgreSQL"> — Modelagem de dados complexos e consultas otimizadas.
 
-### **Bancos de Dados, Cache & Mensageria**
-<p align="left">
-  <img src="https://shields.io" alt="PostgreSQL">
-  <img src="https://shields.io" alt="MySQL">
-  <img src="https://shields.io" alt="Redis">
-</p>
+### 🔥 Rank A (Forte Domínio & Alta Performance)
+* <img src="https://shields.io" alt="Elixir"> — Sistemas distribuídos, concorrentes e em tempo real.
+* <img src="https://shields.io" alt="Redis"> — Estratégias de cacheamento, filas e mensageria rápida.
+* <img src="https://shields.io" alt="MySQL"> — Gerenciamento e manutenção de bancos relacionais tradicionais.
+
+### ⚡ Rank B (Sólido & Funcional)
+* <img src="https://shields.io" alt="JavaScript"> — Regras de negócio no frontend e scripts dinâmicos.
+
+### 🛠️ Rank C (Conhecimento de Base)
+* <img src="https://shields.io" alt="C"> — Entendimento profundo de algoritmos, memória e baixo nível.
 
 ---
 
-## 🎯 No que costumo trabalhar?
-
-* **Sistemas Web Integrados:** APIs RESTful de alta performance criadas com Python e Django.
-* **Aplicações Concorrentes:** Microsserviços e sistemas em tempo real distribuídos com Elixir.
-* **Otimização de Consultas:** Modelagem de dados complexos com PostgreSQL e MySQL utilizando Redis para cacheamento estratégico.
-
----
-
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas (Vercel & GitHub Metrics)
 
 <p align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150">
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="150">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180">
+  <img src="https://vercel.app" alt="Linguagens mais usadas" height="180">
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%">
 </p>
 
 ---
