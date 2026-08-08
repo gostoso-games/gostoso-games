@@ -17,25 +17,3 @@ Desenvolvedor apaixonado por tecnologia e resolução de problemas.
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ---
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <!-- Cartão Principal de Estatísticas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=1a1b26" alt="Estatísticas do GitHub de SEU_USUARIO_AQUI" />
-  
-  <!-- Cartão de Linguagens Mais Usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide=html&bg_color=1a1b26" alt="Linguagens mais usadas por SEU_USUARIO_AQUI" />
-</p>
-
-<p align="center">
-  <!-- Cartão de Sequência de Commits (Streak) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&background=1a1b26" alt="Sequência de commits de SEU_USUARIO_AQUI" />
-</p>
-
----
-
-### 📫 Como me encontrar
-
-- **LinkedIn:** [Seu LinkedIn](https://linkedin.com/in/seu-perfil)
-- **Email:** seu-email@exemplo.com
