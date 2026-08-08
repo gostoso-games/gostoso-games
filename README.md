@@ -1,57 +1,56 @@
-![](https://komarev.com/ghpvc/?username=gostoso-games&color=FF0000)
-
-## Sobre mim
-
-- 🎩 **Gostoso Games** - Roubando corações com código e jogos!
-- 🎓 Estudando **Eletrotécnica** no **IFAL**.
-- 🛠️ Desenvolvendo **Aplicações Web** (Laravel + Tailwind) e **Jogos** (Raylib em C / Roblox Studio em Luau).
-- 🐧 Entusiasta de **Arch Linux** e ferramentas de código aberto.
-- 🌱 Aprendendo mais sobre **Sistemas Embarcados**, **Automação** e **Game Design**.
-
-## Minhas Skills
-
-**Linguagens de Programação**
-
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=A8B9CC)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript&logoColor=F7DF1E)
-![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua&logoColor=2C2D72)
-
-**Desenvolvimento Web & Frameworks**
-
-![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=FF2D20)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss&logoColor=38B2AC)
-![Alpine.js](https://img.shields.io/badge/-Alpine.js-333333?style=flat&logo=alpine.js&logoColor=8BC0D0)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6)
-
-**Desenvolvimento de Jogos**
-
-![Raylib](https://img.shields.io/badge/-Raylib-333333?style=flat&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/-Roblox%20Studio-333333?style=flat&logo=roblox&logoColor=white)
-
-**Ambiente, Utilidades & DevOps**
-
-![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-333333?style=flat&logo=arch-linux&logoColor=1793D1)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=2496ED)
-
-<br/>
+# 💻 Olá, eu sou o [Seu Nome]!
 
 <p align="left">
-  <a href="https://github.com/gostoso-games">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gostoso-games&theme=blood&show_icons=true&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/gostoso-games">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gostoso-games&theme=blood&layout=compact" />
-  </a>
+  <img src="https://shields.io" alt="Status">
+  <img src="https://shields.io" alt="Perfil">
 </p>
 
-## Onde me encontrar
+Sou um desenvolvedor especializado em construir arquiteturas de software robustas, sistemas de alta concorrência e gerenciamento eficiente de dados. Meu foco principal está no desenvolvimento backend, APIs escaláveis e otimização de performance.
 
-[![GitHub](https://img.shields.io/github/followers/gostoso-games?label=Follow&style=social)](https://github.com/gostoso-games)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/seu-perfil)](https://linkedin.com/in/seu-perfil)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@email.com)](mailto:seuemail@email.com)
+---
+
+## 🏆 Minha Stack Tier List
+
+Esta é a minha classificação pessoal de domínio e frequência de uso das tecnologias da minha stack:
+
+### 👑 Rank S (Especialidade & Uso Diário)
+* <img src="https://shields.io" alt="Tier S"> <img src="https://shields.io" alt="Python"> — Desenvolvimento ágil, automações e arquitetura principal.
+* <img src="https://shields.io" alt="Tier S"> <img src="https://shields.io" alt="Django"> — Construção de APIs RESTful robustas e seguras.
+* <img src="https://shields.io" alt="Tier S"> <img src="https://shields.io" alt="PostgreSQL"> — Modelagem de dados complexos e consultas otimizadas.
+
+### 🔥 Rank A (Forte Domínio & Alta Performance)
+* <img src="https://shields.io" alt="Tier A"> <img src="https://shields.io" alt="Elixir"> — Sistemas distribuídos, concorrentes e em tempo real.
+* <img src="https://shields.io" alt="Tier A"> <img src="https://shields.io" alt="Redis"> — Estratégias de cacheamento, filas e mensageria rápida.
+* <img src="https://shields.io" alt="Tier A"> <img src="https://shields.io" alt="MySQL"> — Gerenciamento e manutenção de bancos relacionais tradicionais.
+
+### ⚡ Rank B (Sólido & Funcional)
+* <img src="https://shields.io" alt="Tier B"> <img src="https://shields.io" alt="JavaScript"> — Regras de negócio no frontend e scripts dinâmicos.
+
+### 🛠️ Rank C (Conhecimento de Base)
+* <img src="https://shields.io" alt="Tier C"> <img src="https://shields.io" alt="C"> — Entendimento profundo de algoritmos, memória e baixo nível.
+
+---
+
+## 📊 Estatísticas (Vercel & GitHub Metrics)
+
+<p align="center">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180">
+  <img src="https://vercel.app" alt="Linguagens mais usadas" height="180">
+</p>
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%">
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="mailto:seu.email@provedor.com">
+    <img src="https://shields.io" alt="Email">
+  </a>
+</p>
