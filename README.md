@@ -1,29 +1,62 @@
-<div align="center">
+# 💻 Olá, eu sou o [Seu Nome]!
 
-  <!-- Banner Persona 5 Phantom Thieves -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG9iOXdtOWV0dzRtMzR3MzExODk3MjlyeDFrYnY2ODQzbG51ZWpsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vA2EUQ82EGUSI/giphy.gif" width="100%" alt="Persona 5 Phantom Thieves Banner"/>
+<p align="left">
+  <img src="https://shields.io" alt="Status">
+  <img src="https://shields.io" alt="Perfil">
+</p>
 
-  <br/><br/>
-
-  <!-- Título Estilo Take Your Heart -->
-  <h1>🎩 GOSTOSO GAMES 🃏</h1>
-  <h3><i>"Stealing hearts through games & code"</i></h3>
-
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=550&lines=Game+Development+Studio;Roblox+Lua+%7C+Raylib+in+C+%7C+Indie+Games;All-Out+Attack+on+Game+Design!" alt="Typing SVG" />
-  </p>
-
-  <br/>
-
-</div>
+Sou um desenvolvedor especializado em construir arquiteturas de software robustas, sistemas de alta concorrência e gerenciamento eficiente de dados. Meu foco principal está no desenvolvimento backend, APIs escaláveis e otimização de performance.
 
 ---
 
-### 🎮 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDVsZXA1bmRseTJwMDVxcHM1Ym03dnlmeTRyc2x1OWUxdWlsOHdzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v935d21t4qM2Kx9t3j/giphy.gif" width="30px"/> About Gostoso Games
+## 🛠️ Stack Tecnológica
 
-```yaml
-Studio: "Gostoso Games"
-Mission: "Creating immersive, fun, and rebellious gaming experiences."
-Core_Stack: "C / Raylib, Roblox Studio (Luau), C++, Python"
-Base_OS: "Arch Linux 🐧"
-Status: "Brewing new games & stealing hearts ☕"
+### **Linguagens de Programação**
+<p align="left">
+  <img src="https://shields.io" alt="Python">
+  <img src="https://shields.io" alt="JavaScript">
+  <img src="https://shields.io" alt="Elixir">
+  <img src="https://shields.io" alt="C">
+</p>
+
+### **Frameworks & Web**
+<p align="left">
+  <img src="https://shields.io" alt="Django">
+</p>
+
+### **Bancos de Dados, Cache & Mensageria**
+<p align="left">
+  <img src="https://shields.io" alt="PostgreSQL">
+  <img src="https://shields.io" alt="MySQL">
+  <img src="https://shields.io" alt="Redis">
+</p>
+
+---
+
+## 🎯 No que costumo trabalhar?
+
+* **Sistemas Web Integrados:** APIs RESTful de alta performance criadas com Python e Django.
+* **Aplicações Concorrentes:** Microsserviços e sistemas em tempo real distribuídos com Elixir.
+* **Otimização de Consultas:** Modelagem de dados complexos com PostgreSQL e MySQL utilizando Redis para cacheamento estratégico.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150">
+  <img src="https://vercel.app" alt="Linguagens mais usadas" height="150">
+</p>
+
+---
+
+## 📫 Vamos nos conectar?
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="mailto:seu.email@provedor.com">
+    <img src="https://shields.io" alt="Email">
+  </a>
+</p>
