@@ -161,12 +161,18 @@
 
 Quero me tornar um **Cientista de Dados**, aprofundando meus conhecimentos em:
 
+### 🧪 Data Science
+
+Quero me tornar um **Cientista de Dados**, aprofundando meus conhecimentos em:
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Statistics-8E44AD?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data_Analysis-2E86C1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 </p>
 
 ### ⚙️ Low-Level Programming
