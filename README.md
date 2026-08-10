@@ -82,6 +82,7 @@
 ## 🔐 Cybersecurity
 
 <p>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
   <img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
@@ -156,10 +157,6 @@
 ---
 
 ## 🎯 Goals
-
-### 🧪 Data Science
-
-Quero me tornar um **Cientista de Dados**, aprofundando meus conhecimentos em:
 
 ### 🧪 Data Science
 
