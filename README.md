@@ -1,23 +1,205 @@
-# Olá! Eu sou o Jefferson 👋
+# 👨‍💻 Açai
 
-Desenvolvedor apaixonado por tecnologia e resolução de problemas.
+**Full Stack Developer • Systems • Cybersecurity • Linux • Open Source**
 
 ---
 
-### 🛠️ Linguagens e Ferramentas
+## 🧠 Languages
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=yellow)
-![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=ionic&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
+---
+
+## 🌐 Front-end
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+</p>
+
+---
+
+## ⚙️ Back-end
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOAP-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adminer-34567C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+</p>
+
+---
+
+## 🐳 DevOps & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white"/>
+</p>
+
+---
+
+## 🔐 Cybersecurity
+
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=portswigger&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wappalyzer-4608AD?style=for-the-badge&logo=wappalyzer&logoColor=white"/>
+</p>
+
+**Conhecimentos:**
+
+`SQL Injection` • `Web Security` • `Authentication` • `2FA` • `Sessions` • `Cookies` • `Pentesting`
+
+---
+
+## 🗺️ Maps & Geolocation
+
+<p>
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
+
+`Leaflet Heatmap` • `Fogocruzado API` • `IBGE APIs` • `Geolocation` • `Geospatial Data`
+
+---
+
+## 🎮 Graphics & Game Development
+
+<p>
+  <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
+</p>
+
+---
+
+## 📦 Tools & Package Managers
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
+</p>
+
+---
+
+## 🔌 APIs & Communication
+
+<p>
+  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOAP-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🗺️ Crime Map
+
+Interactive crime visualization using maps, APIs, geolocation and data visualization.
+
+### 🔬 AI Exam Analyzer
+
+Project focused on analyzing examination images using artificial intelligence.
+
+### 📚 IFAL Teacher Server
+
+Platform for teachers to share PDFs and educational resources.
+
+### ♟️ Chess in C
+
+Chess project developed with **C + Raylib**.
+
+### 🐳 Docker Environments
+
+Containerized development environments using **Docker Compose, databases and web servers**.
+
+---
+
+## 🧩 Currently Exploring
+
+```text
+C • JavaScript • Python • PHP • Elixir • Lua
+React • Laravel • Node.js • Express
+Docker • Linux • PostgreSQL • MySQL • Redis
+Cybersecurity • APIs • Distributed Systems
+Maps • Geolocation • AI
+```
+
+---
+
+## 📊 Tech Stack
+
+```text
+Languages       → C, JavaScript, Python, PHP, Elixir, Lua, SQL
+Frontend        → React, Tailwind, Vite, Alpine.js, Ionic
+Backend         → Node.js, Express, Laravel
+Databases       → PostgreSQL, MySQL, Redis
+Infrastructure  → Linux, Docker, Nginx, Apache, Caddy
+Messaging       → RabbitMQ, Pub/Sub, WebSockets
+APIs            → REST, GraphQL, gRPC, SOAP
+Security        → Burp Suite, Nmap, Gobuster, SQL Injection
+Maps            → Leaflet, OpenLayers, OpenStreetMap
+Graphics        → C, Raylib
+Tools           → Git, GitHub, NPM, Composer, DBeaver, Adminer
+```
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leviata-sudo&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviata-sudo&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <b>💻 Building. Learning. Breaking. Rebuilding.</b>
+</p>
