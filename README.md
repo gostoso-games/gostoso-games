@@ -105,7 +105,7 @@
   <img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
-`Leaflet Heatmap` • `Fogocruzado API` • `IBGE APIs` • `Geolocation` • `Geospatial Data`
+`Leaflet Heatmap` • `IBGE APIs` • `Geolocation` • `Geospatial Data`
 
 ---
 
