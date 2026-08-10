@@ -1,7 +1,10 @@
 # 👨‍💻 JEFFERSON
-um estudante da IFAL autista que faz oque faz por hobbie
+
+> Um estudante da **IFAL** que programa por hobby, gosta de entender como as coisas funcionam por baixo dos panos e está sempre explorando novas áreas da tecnologia.
 
 **Full Stack Developer • Systems • Cybersecurity • Linux • Open Source**
+
+🎯 **Objetivos:** me tornar um **Cientista de Dados** e um **Programador de Baixo Nível**.
 
 ---
 
@@ -84,11 +87,12 @@ um estudante da IFAL autista que faz oque faz por hobbie
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Gobuster-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Wappalyzer-4608AD?style=for-the-badge&logo=wappalyzer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge"/>
 </p>
 
 **Conhecimentos:**
 
-`SQL Injection` • `Web Security` • `Authentication` • `2FA` • `Sessions` • `Cookies` • `Pentesting`
+`SQL Injection` • `Web Security` • `Authentication` • `2FA` • `Sessions` • `Cookies` • `Pentesting` • `Reverse Engineering`
 
 ---
 
@@ -137,14 +141,53 @@ um estudante da IFAL autista que faz oque faz por hobbie
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
+---
+
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leviata-sudo&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leviata-sudo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviata-sudo&layout=compact&langs_count=10&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviata-sudo&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=leviata-sudo&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Goals
+
+### 🧪 Data Science
+
+Quero me tornar um **Cientista de Dados**, aprofundando meus conhecimentos em:
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Statistics-8E44AD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-2E86C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### ⚙️ Low-Level Programming
+
+Também quero me especializar em **programação de baixo nível**:
+
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Architecture-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operating_Systems-557C94?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Reverse_Engineering-8B0000?style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Programo porque gosto de entender como as coisas funcionam.</b>
 </p>
 
 <p align="center">
-  <b>💻 Building. Learning. Breaking. Rebuilding.</b>
+  <b>🔬 Future Data Scientist • ⚙️ Future Low-Level Programmer</b>
 </p>
