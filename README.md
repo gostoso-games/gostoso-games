@@ -1,5 +1,5 @@
 # 👨‍💻 Jefferson 
-um estudante da ###ifal autista que faz oque faz por hobbie
+um estudante da ### ifal autista que faz oque faz por hobbie
 
 **Full Stack Developer • Systems • Cybersecurity • Linux • Open Source**
 
