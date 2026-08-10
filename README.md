@@ -1,4 +1,5 @@
-# 👨‍💻 Açai
+# 👨‍💻 Jefferson 
+um estudante da ifal autista que faz oque faz por hobbie
 
 **Full Stack Developer • Systems • Cybersecurity • Linux • Open Source**
 
@@ -135,62 +136,6 @@
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
-
----
-
-## 🚀 Projects
-
-### 🗺️ Crime Map
-
-Interactive crime visualization using maps, APIs, geolocation and data visualization.
-
-### 🔬 AI Exam Analyzer
-
-Project focused on analyzing examination images using artificial intelligence.
-
-### 📚 IFAL Teacher Server
-
-Platform for teachers to share PDFs and educational resources.
-
-### ♟️ Chess in C
-
-Chess project developed with **C + Raylib**.
-
-### 🐳 Docker Environments
-
-Containerized development environments using **Docker Compose, databases and web servers**.
-
----
-
-## 🧩 Currently Exploring
-
-```text
-C • JavaScript • Python • PHP • Elixir • Lua
-React • Laravel • Node.js • Express
-Docker • Linux • PostgreSQL • MySQL • Redis
-Cybersecurity • APIs • Distributed Systems
-Maps • Geolocation • AI
-```
-
----
-
-## 📊 Tech Stack
-
-```text
-Languages       → C, JavaScript, Python, PHP, Elixir, Lua, SQL
-Frontend        → React, Tailwind, Vite, Alpine.js, Ionic
-Backend         → Node.js, Express, Laravel
-Databases       → PostgreSQL, MySQL, Redis
-Infrastructure  → Linux, Docker, Nginx, Apache, Caddy
-Messaging       → RabbitMQ, Pub/Sub, WebSockets
-APIs            → REST, GraphQL, gRPC, SOAP
-Security        → Burp Suite, Nmap, Gobuster, SQL Injection
-Maps            → Leaflet, OpenLayers, OpenStreetMap
-Graphics        → C, Raylib
-Tools           → Git, GitHub, NPM, Composer, DBeaver, Adminer
-```
-
----
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leviata-sudo&show_icons=true&theme=tokyonight&hide_border=true"/>
