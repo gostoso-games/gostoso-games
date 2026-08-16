@@ -12,6 +12,8 @@
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -114,6 +116,7 @@
 <p>
   <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
 </p>
 
@@ -143,6 +146,7 @@
 </p>
 
 ---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -169,7 +173,7 @@ Quero me tornar um **Cientista de Dados**, aprofundando meus conhecimentos em:
   <img src="https://img.shields.io/badge/Data_Analysis-2E86C1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 </p>
 
 ### ⚙️ Low-Level Programming
@@ -178,6 +182,8 @@ Também quero me especializar em **programação de baixo nível**:
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Computer_Architecture-333333?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Operating_Systems-557C94?style=for-the-badge"/>
