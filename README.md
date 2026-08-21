@@ -156,15 +156,6 @@
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeffer-linuxid)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeffer-linuxid)
-
----
 
 ## 🎯 Goals
 
